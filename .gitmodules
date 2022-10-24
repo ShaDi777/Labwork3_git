@@ -1,0 +1,3 @@
+[submodule "test_repository"]
+	path = test_repository
+	url = https://github.com/ShaDi777/test_repository
